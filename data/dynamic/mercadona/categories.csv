@@ -1,0 +1,153 @@
+cat1,cat2,id
+"Aceite, especias y salsas","Aceite, vinagre y sal",112
+"Aceite, especias y salsas",Especias,115
+"Aceite, especias y salsas","Mayonesa, ketchup y mostaza",116
+"Aceite, especias y salsas",Otras salsas,117
+Agua y refrescos,Agua,156
+Agua y refrescos,Isotónico y energético,163
+Agua y refrescos,Refresco de cola,158
+Agua y refrescos,Refresco de naranja y de limón,159
+Agua y refrescos,Tónica y bitter,161
+Agua y refrescos,Refresco de té y sin gas,162
+Aperitivos,Aceitunas y encurtidos,135
+Aperitivos,Frutos secos y fruta desecada,133
+Aperitivos,Patatas fritas y snacks,132
+"Arroz, legumbres y pasta",Arroz,118
+"Arroz, legumbres y pasta",Legumbres,121
+"Arroz, legumbres y pasta",Pasta y fideos,120
+"Azúcar, caramelos y chocolate",Azúcar y edulcorante,89
+"Azúcar, caramelos y chocolate",Chicles y caramelos,95
+"Azúcar, caramelos y chocolate",Chocolate,92
+"Azúcar, caramelos y chocolate",Golosinas,97
+"Azúcar, caramelos y chocolate",Mermelada y miel,90
+Bebé,Alimentación infantil,216
+Bebé,Biberón y chupete,219
+Bebé,Higiene y cuidado,218
+Bebé,Toallitas y pañales,217
+Bodega,Cerveza,164
+Bodega,Cerveza sin alcohol,166
+Bodega,Licores,181
+Bodega,Sidra y cava,174
+Bodega,Tinto de verano y sangría,168
+Bodega,Vino blanco,170
+Bodega,Vino lambrusco y espumoso,173
+Bodega,Vino rosado,171
+Bodega,Vino tinto,169
+"Cacao, café e infusiones",Cacao soluble y chocolate a la taza,86
+"Cacao, café e infusiones",Café cápsula y monodosis,81
+"Cacao, café e infusiones",Café molido y en grano,83
+"Cacao, café e infusiones",Café soluble y otras bebidas,84
+"Cacao, café e infusiones",Té e infusiones,88
+Carne,Arreglos,46
+Carne,Aves y pollo,38
+Carne,Carne congelada,47
+Carne,Cerdo,37
+Carne,Conejo y cordero,42
+Carne,Embutido,43
+Carne,Hamburguesas y picadas,44
+Carne,Vacuno,40
+Carne,Empanados y elaborados,45
+Cereales y galletas,Cereales,78
+Cereales y galletas,Galletas,80
+Cereales y galletas,Tortitas,79
+Charcutería y quesos,Aves y jamón cocido,48
+Charcutería y quesos,Bacón y salchichas,52
+Charcutería y quesos,Chopped y mortadela,49
+Charcutería y quesos,Embutido curado,51
+Charcutería y quesos,Jamón serrano,50
+Charcutería y quesos,Paté y sobrasada,58
+Charcutería y quesos,"Queso curado, semicurado y tierno",54
+Charcutería y quesos,"Queso lonchas, rallado y en porciones",56
+Charcutería y quesos,Queso untable y fresco,53
+Congelados,Arroz y pasta,147
+Congelados,Carne,148
+Congelados,Helados,154
+Congelados,Hielo,155
+Congelados,Marisco,150
+Congelados,Pescado,149
+Congelados,Pizzas,151
+Congelados,Rebozados,884
+Congelados,Tartas y churros,152
+Congelados,Verdura,145
+"Conservas, caldos y cremas",Atún y otras conservas de pescado,122
+"Conservas, caldos y cremas",Berberechos y mejillones,123
+"Conservas, caldos y cremas",Conservas de verdura y frutas,127
+"Conservas, caldos y cremas",Gazpacho y cremas,130
+"Conservas, caldos y cremas",Sopa y caldo,129
+"Conservas, caldos y cremas",Tomate,126
+Cuidado del cabello,Acondicionador y mascarilla,201
+Cuidado del cabello,Champú,199
+Cuidado del cabello,Coloración cabello,203
+Cuidado del cabello,Fijación cabello,202
+Cuidado facial y corporal,Afeitado y cuidado para hombre,192
+Cuidado facial y corporal,Cuidado corporal,189
+Cuidado facial y corporal,Cuidado e higiene facial,185
+Cuidado facial y corporal,Depilación,191
+Cuidado facial y corporal,Desodorante,188
+Cuidado facial y corporal,Gel y jabón de manos,187
+Cuidado facial y corporal,Higiene bucal,186
+Cuidado facial y corporal,Higiene íntima,190
+Cuidado facial y corporal,Manicura y pedicura,194
+Cuidado facial y corporal,Perfume y colonia,196
+Cuidado facial y corporal,Protector solar y aftersun,198
+Fitoterapia y parafarmacia,Fitoterapia,213
+Fitoterapia y parafarmacia,Parafarmacia,214
+Fruta y verdura,Fruta,27
+Fruta y verdura,Lechuga y ensalada preparada,28
+Fruta y verdura,Verdura,29
+"Huevos, leche y mantequilla",Huevos,77
+"Huevos, leche y mantequilla",Leche y bebidas vegetales,72
+"Huevos, leche y mantequilla",Mantequilla y margarina,75
+Limpieza y hogar,Detergente y suavizante ropa,226
+Limpieza y hogar,"Estropajo, bayeta y guantes",237
+Limpieza y hogar,Insecticida y ambientador,241
+Limpieza y hogar,Lejía y líquidos fuertes,234
+Limpieza y hogar,Limpiacristales,235
+Limpieza y hogar,Limpiahogar y friegasuelos,233
+Limpieza y hogar,Limpieza baño y WC,231
+Limpieza y hogar,Limpieza cocina,230
+Limpieza y hogar,Limpieza muebles y multiusos,232
+Limpieza y hogar,Limpieza vajilla,229
+Limpieza y hogar,Menaje y conservación de alimentos,243
+Limpieza y hogar,Papel higiénico y celulosa,238
+Limpieza y hogar,Pilas y bolsas de basura,239
+Limpieza y hogar,Utensilios de limpieza y calzado,244
+Maquillaje,Bases de maquillaje y corrector,206
+Maquillaje,Colorete y polvos,207
+Maquillaje,Labios,208
+Maquillaje,Ojos,210
+Maquillaje,Pinceles y brochas,212
+Marisco y pescado,Marisco,32
+Marisco y pescado,Pescado congelado,34
+Marisco y pescado,Pescado fresco,31
+Marisco y pescado,Salazones y ahumados,36
+Marisco y pescado,Sushi,789
+Mascotas,Gato,222
+Mascotas,Perro,221
+Mascotas,Otros,225
+Panadería y pastelería,Bollería de horno,65
+Panadería y pastelería,Bollería envasada,66
+Panadería y pastelería,Harina y preparado repostería,69
+Panadería y pastelería,Pan de horno,59
+Panadería y pastelería,Pan de molde y otras especialidades,60
+Panadería y pastelería,Pan tostado y rallado,62
+Panadería y pastelería,"Picos, rosquilletas y picatostes",64
+Panadería y pastelería,Tartas y pasteles,68
+Panadería y pastelería,Velas y decoración,71
+Pizzas y platos preparados,Listo para Comer,897
+Pizzas y platos preparados,Pizzas,138
+Pizzas y platos preparados,Platos preparados calientes,140
+Pizzas y platos preparados,Platos preparados fríos,142
+Postres y yogures,Bífidus,105
+Postres y yogures,Flan y natillas,110
+Postres y yogures,Gelatina y otros postres,111
+Postres y yogures,Postres de soja,106
+Postres y yogures,Yogures desnatados,103
+Postres y yogures,Yogures griegos,109
+Postres y yogures,Yogures líquidos,108
+Postres y yogures,Yogures naturales y sabores,104
+Postres y yogures,Yogures y postres infantiles,107
+Zumos,Fruta variada,99
+Zumos,Melocotón y piña,100
+Zumos,Naranja,143
+Zumos,Tomate y otros sabores,98
